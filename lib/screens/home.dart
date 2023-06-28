@@ -173,7 +173,7 @@ child:SingleChildScrollView(
              child: ListView.builder(
                  itemCount: 6,
                  itemBuilder: (BuildContext context,int index){
-               return Text('data',style: TextStyle(color: Colors.white),);
+               return Text('data',style: TextStyle(color: Colors.white),);;
              }),
            )
 
