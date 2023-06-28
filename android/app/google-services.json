@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "433489315826",
+    "project_id": "hime-2f1a8",
+    "storage_bucket": "hime-2f1a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433489315826:android:9ff0376f9abfa9dba90d6b",
+        "android_client_info": {
+          "package_name": "com.example.himi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433489315826-e67hffda28vc9jo71flt6hoko11hlc2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0ZzIVw0SWhCCsqMxoq99SdnT1sF__CEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433489315826-e67hffda28vc9jo71flt6hoko11hlc2o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
